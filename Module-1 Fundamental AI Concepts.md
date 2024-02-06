@@ -1,7 +1,11 @@
 **Course Overview**
+
+
 With AI, we can build solutions that seemed like science fiction a short time ago; enabling incredible advances in health care, financial management, environmental protection, and other areas to make a better world for everyone.
 
 **Topics Covered**
+
+
 1- Introduction to AI
 
 2- Understand Machine Learning 
@@ -22,6 +26,8 @@ With AI, we can build solutions that seemed like science fiction a short time ag
 
 
 **Learning Objectives**
+
+
 In this module, you'll learn about the kinds of solutions AI can make possible and considerations for responsible AI practices.
 
 #Let's start..!
@@ -66,9 +72,13 @@ The Yield, an agricultural technology company based in Australia, uses sensors, 
   Machine learning models try to capture the relationship between data. For example, suppose an environmental conservation organization wants volunteers to identify and catalog different species of wildflower using a phone app.
 
 1- A team of botanists and scientists collect data on wildflower samples.
+
 2- The team labels the samples with the correct species.
+
 3- The labeled data is processed using an algorithm that finds relationships between the features of the samples and the labeled species.
+
 4- The results of the algorithm are encapsulated in a model.
+
 5- When new samples are found by volunteers, the model can identify the correct species label.
 
 
@@ -76,7 +86,7 @@ Approaches to AI have advanced to complete tasks of much greater complexity. The
 
 
 
-- cMachine learning in Microsoft Azure
+- Machine learning in Microsoft Azure
 Microsoft Azure provides the Azure Machine Learning service - a cloud-based platform for creating, managing, and publishing machine learning models. Azure Machine Learning Studio offers multiple authoring experiences such as:
 
 . Automated machine learning: this feature enables non-experts to quickly create an effective machine learning model from data.
